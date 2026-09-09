@@ -1,0 +1,15 @@
+{
+  "name": "genpark-nash-equilibrium-bimatrix-support-enumeration-skill",
+  "version": "1.0.0",
+  "description": "Bimatrix game solver computing pure and mixed Nash equilibria.",
+  "author": "GenPark AI",
+  "license": "Apache-2.0",
+  "dependencies": [],
+  "keywords": [
+    "nash-equilibrium",
+    "game-theory",
+    "bimatrix-game",
+    "mixed-strategies",
+    "agentic-ai"
+  ]
+}
